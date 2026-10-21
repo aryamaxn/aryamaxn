@@ -7,7 +7,7 @@ on my-profile via gh
 stage        3rd year / b.tech aiml
 role         ml engineer
 langs        python / typescript / sql
-building     signsense / ipo-recommender
+building     signsense / ipofy
 ```
 
 ## 🌐 Socials
