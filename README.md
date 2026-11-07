@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:2c5282,100:7aa2d6&height=220&section=header&text=Welcome%20to%20Aryaman's%20GitHub&fontSize=38&fontColor=cfe3ff&fontAlignY=40&desc=AI%20%26%20ML%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=62" width="100%" alt="banner" />
+<img src="banner.svg" width="100%" alt="Welcome to Aryaman's Github" />
 
 <br/>
 
@@ -31,7 +31,13 @@
 <img src="https://img.shields.io/badge/REACT-4a78b5?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TAILWIND-4a78b5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/MEDIAPIPE-4a78b5?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLAUDE-4a78b5?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-4a78b5?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/VANILLA%20CSS-0a2342?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-0a2342?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/RENDER-2c5282?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-2c5282?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AZURE-4a78b5?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <br/><br/>
 
