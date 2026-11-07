@@ -43,11 +43,7 @@
 
 ## <img src="logo.png" height="26" alt=""/> <i>Statistics</i>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamaxn&bg_color=0b1220&color=9db8e0&line=7aa2d6&point=ffffff&area=true&area_color=2c5282&hide_border=false&border_color=1d3b6b&title_color=cfe3ff" width="95%" alt="Aryaman's Contribution Graph" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aryamaxn&theme=dark&background=0b1220&border=1d3b6b&ring=7aa2d6&fire=7aa2d6&currStreakLabel=9db8e0" alt="Streak" />
+<img src="https://raw.githubusercontent.com/aryamaxn/aryamaxn/output/github-snake.svg" width="95%" alt="Aryaman's Contribution Graph" />
 
 <br/><br/>
 
