@@ -42,7 +42,11 @@
 
 ## <img src="logo.png" height="26" alt=""/> <i>Statistics</i>
 
-<img src="https://raw.githubusercontent.com/aryamaxn/aryamaxn/output/github-snake.svg" width="95%" alt="Aryaman's Contribution Graph" />
+<img src="https://github-readme-activity-graph-ten-taupe.vercel.app/graph?username=aryamaxn&theme=github-compact&hide_border=true&area=true" width="95%" alt="Aryaman's Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/aryamaxn/aryamaxn/output/github-snake.svg" width="95%" alt="Aryaman's Contribution Snake"/>
 
 <br/><br/>
 
