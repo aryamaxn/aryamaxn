@@ -5,7 +5,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/aryaman-sharma-32b608319"><img src="https://img.shields.io/badge/LINKEDIN-0a2342?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/aryamaxn"><img src="https://img.shields.io/badge/LEETCODE-1d3b6b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="mailto:aryaman.sharma5161@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4a78b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <br/><br/>
@@ -80,16 +79,19 @@
 | **SignSense** | Real-time ASL gesture recognition with LLM post-processing into natural language (patent application published) | MediaPipe, Bi-LSTM, LLM |
 | **IPO Recommender** | Recommends IPOs using retail application patterns, risk appetite and GMP trends | Python, ML |
 | **SECOM Fault Detection** | Semiconductor wafer fault detection with sensor attribution | Python, ML |
-| **[TaskFlow](https://github.com/aryamaxn/taskflow-ag)** | Dark-themed, responsive task manager with Google sign-in, smart lists, categories and a calendar; every user's tasks are private | Node.js, Express, MongoDB, Google OAuth |
+| **TaskFlow** | Dark-themed, responsive task manager with Google sign-in, smart lists, categories and a calendar; every user's tasks are private | Node.js, Express, MongoDB, Google OAuth |
 
 <br/>
 
 ## <img src="logo.png" height="26" alt=""/> <i>Hobbies & Goals</i>
 
-B.Tech AIML student at **Manipal University Jaipur** · Events Head, **ACM Student Chapter MUJ**
-*"Make it work, make it right, make it fast."* — Kent Beck
+Reading — Collecting perspectives, not just pages.
 
-🎯 Goal: Product-based company placement · 🧩 Daily LeetCode · 🛠️ Building things that ship
+Piano — Debugging life, one key at a time.
+
+Cricket — Because not every problem needs a keyboard.
+
+Goal: Build things people use · Land a product-based role · Turn ideas into impact
 
 <br/>
 
