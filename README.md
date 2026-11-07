@@ -1,24 +1,87 @@
-## About Me
+<div align="center">
 
-```
-on my-profile via gh
-> hi, i am aryaman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:2c5282,100:7aa2d6&height=220&section=header&text=Welcome%20to%20Aryaman's%20GitHub&fontSize=38&fontColor=cfe3ff&fontAlignY=40&desc=AI%20%26%20ML%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=62" width="100%" alt="banner" />
 
-stage        3rd year / b.tech aiml
-role         ml engineer
-langs        python / typescript / sql
-building     signsense / ipofy
-```
+<br/>
 
-## 🌐 Socials
+<a href="https://www.linkedin.com/in/aryaman-sharma-32b608319"><img src="https://img.shields.io/badge/LINKEDIN-0a2342?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/aryamaxn"><img src="https://img.shields.io/badge/LEETCODE-1d3b6b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="mailto:aryaman.sharma5161@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4a78b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-[<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />](mailto:aryaman.sharma5161@gmail.com)
+<br/><br/>
 
-## 💻 Tech Stack
+## <img src="https://img.shields.io/badge/-%E2%97%8E-0d1117?style=flat-square" height="16"/> <i>Technologies</i>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/LINUX-0a2342?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-0a2342?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0a2342?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-2c5282?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-2c5282?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-2c5282?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-2c5282?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0a2342?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0a2342?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-0a2342?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-0a2342?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-0a2342?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-4a78b5?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-4a78b5?style=for-the-badge&logo=css3&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/REACT-4a78b5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND-4a78b5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-4a78b5?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLAUDE-4a78b5?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
-## 📊 GitHub Stats
+<br/><br/>
 
-![Streak](https://streak-stats.demolab.com?user=aryamaxn&theme=dark&background=000000&border=30363d)
+## <i>Statistics</i>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamaxn&bg_color=0b1220&color=9db8e0&line=7aa2d6&point=ffffff&area=true&area_color=2c5282&hide_border=false&border_color=1d3b6b&title_color=cfe3ff" width="95%" alt="Aryaman's Contribution Graph" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aryamaxn&theme=dark&background=0b1220&border=1d3b6b&ring=7aa2d6&fire=7aa2d6&currStreakLabel=9db8e0" alt="Streak" />
+
+<br/><br/>
+
+## <i>About Me</i>
+
+<table>
+<tr>
+<td width="220" align="center">
+<img src="https://avatars.githubusercontent.com/u/284062146?v=4" width="180" style="border-radius:50%" alt="Aryaman" />
+</td>
+<td align="center">
+
+Hello! My name is **Aryaman Sharma**, and I am a third-year **B.Tech student in Artificial Intelligence & Machine Learning** at Manipal University Jaipur. I'm passionate about building real-world AI projects, competitive programming, and learning new technologies.
+Currently I'm sharpening my skills in **Python, C++, DSA, React and MongoDB**, working on **SignSense** and an **IPO recommender**, and preparing for placements.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <i>Featured Projects</i>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **SignSense** | Real-time ASL gesture recognition with LLM post-processing into natural language (patent application published) | MediaPipe, Bi-LSTM, LLM |
+| **IPO Recommender** | Recommends IPOs using retail application patterns, risk appetite and GMP trends | Python, ML |
+| **SECOM Fault Detection** | Semiconductor wafer fault detection with sensor attribution | Python, ML |
+
+<br/>
+
+## <i>Hobbies & Goals</i>
+
+B.Tech AIML student at **Manipal University Jaipur** · Events Head, **ACM Student Chapter MUJ**
+*"Make it work, make it right, make it fast."* — Kent Beck
+
+🎯 Goal: Product-based company placement · 🧩 Daily LeetCode · 🛠️ Building things that ship
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2d6,50:2c5282,100:0b1d3a&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
