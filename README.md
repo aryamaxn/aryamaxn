@@ -72,6 +72,7 @@ Currently I'm sharpening my skills in **Python, C++, DSA, React and MongoDB**, w
 | **SignSense** | Real-time ASL gesture recognition with LLM post-processing into natural language (patent application published) | MediaPipe, Bi-LSTM, LLM |
 | **IPO Recommender** | Recommends IPOs using retail application patterns, risk appetite and GMP trends | Python, ML |
 | **SECOM Fault Detection** | Semiconductor wafer fault detection with sensor attribution | Python, ML |
+| **[TaskFlow](https://github.com/aryamaxn/taskflow-ag)** | Dark-themed, responsive task manager with Google sign-in, smart lists, categories and a calendar; every user's tasks are private | Node.js, Express, MongoDB, Google OAuth |
 
 <br/>
 
