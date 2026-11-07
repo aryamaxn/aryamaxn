@@ -49,19 +49,27 @@
 
 ## <img src="logo.png" height="26" alt=""/> <i>About Me</i>
 
-<table>
-<tr>
-<td width="220" align="center">
-<img src="https://avatars.githubusercontent.com/u/284062146?v=4" width="180" style="border-radius:50%" alt="Aryaman" />
-</td>
-<td align="center">
+<img align="right" width="280" src="./programing.jpeg" alt="Aryaman's Pixel Art Character"/>
 
-Hello! My name is **Aryaman Sharma**, and I am a third-year **B.Tech student in Artificial Intelligence & Machine Learning** at Manipal University Jaipur. I'm passionate about building real-world AI projects, competitive programming, and learning new technologies.
-Currently I'm sharpening my skills in **Python, C++, DSA, React and MongoDB**, working on **SignSense** and an **IPO recommender**, and preparing for placements.
+<p align="center">
+  Hello! My name is <strong>Aryaman Sharma</strong>, and I am a third-year
+  <strong>B.Tech student in Artificial Intelligence & Machine Learning</strong>
+  at Manipal University Jaipur.
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  I'm passionate about building real-world AI projects,
+  competitive programming, and learning new technologies.
+</p>
+
+<p align="center">
+  Currently I'm sharpening my skills in
+  <strong>Python, C++, DSA, React and MongoDB</strong>,
+  working on <strong>SignSense</strong> and an
+  <strong>IPO recommender</strong>, and preparing for placements.
+</p>
+
+<br clear="right"/>
 
 <br/>
 
