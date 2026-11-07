@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Welcome to Aryaman's Github" />
+<img src="banner.jpg" width="100%" alt="Welcome to Aryaman's Github" />
 
 <br/>
 
