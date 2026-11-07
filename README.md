@@ -93,10 +93,20 @@ Piano — Debugging life, one key at a time.
 
 Cricket — Because not every problem needs a keyboard.
 
-Goal: Build things people use · Land a product-based role · Turn ideas into impact
+Goal: Build things people use · Turn ideas into impact
 
 <br/>
 
+
+
+<hr/>
+
+<p align="center">
+  <i>"Make it work, make it right, make it fast."</i>
+  <br/>
+  — Kent Beck
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2d6,50:2c5282,100:0b1d3a&height=100&section=footer" width="100%" alt="footer" />
+<br/>
 
 </div>
