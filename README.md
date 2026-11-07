@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-## <img src="https://img.shields.io/badge/-%E2%97%8E-0d1117?style=flat-square" height="16"/> <i>Technologies</i>
+## <img src="logo.png" height="26" alt=""/> <i>Technologies</i>
 
 <img src="https://img.shields.io/badge/LINUX-0a2342?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-0a2342?style=for-the-badge&logo=git&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-## <i>Statistics</i>
+## <img src="logo.png" height="26" alt=""/> <i>Statistics</i>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamaxn&bg_color=0b1220&color=9db8e0&line=7aa2d6&point=ffffff&area=true&area_color=2c5282&hide_border=false&border_color=1d3b6b&title_color=cfe3ff" width="95%" alt="Aryaman's Contribution Graph" />
 
@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-## <i>About Me</i>
+## <img src="logo.png" height="26" alt=""/> <i>About Me</i>
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Currently I'm sharpening my skills in **Python, C++, DSA, React and MongoDB**, w
 
 <br/>
 
-## <i>Featured Projects</i>
+## <img src="logo.png" height="26" alt=""/> <i>Featured Projects</i>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -79,7 +79,7 @@ Currently I'm sharpening my skills in **Python, C++, DSA, React and MongoDB**, w
 
 <br/>
 
-## <i>Hobbies & Goals</i>
+## <img src="logo.png" height="26" alt=""/> <i>Hobbies & Goals</i>
 
 B.Tech AIML student at **Manipal University Jaipur** · Events Head, **ACM Student Chapter MUJ**
 *"Make it work, make it right, make it fast."* — Kent Beck
