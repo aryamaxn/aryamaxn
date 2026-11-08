@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## <img src="logo.png" height="26" alt=""/> <i>Technologies</i>
+##  <i>Technologies</i>
 
 <img src="https://img.shields.io/badge/LINUX-0a2342?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-0a2342?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 <br/><br/>
 
-## <img src="logo.png" height="26" alt=""/> <i>Statistics</i>
+## <i>Statistics</i>
 
 <img src="https://github-readme-activity-graph-ten-taupe.vercel.app/graph?username=aryamaxn&bg_color=071426&color=C5D7F2&title_color=C5D7F2&line=A8C4F0&point=E5EEFF&border_color=405778&hide_border=false&area=false" width="95%" alt="Aryaman's Contribution Graph"/>
 
@@ -58,7 +58,7 @@
 
 <img src="https://raw.githubusercontent.com/aryamaxn/aryamaxn/output/github-snake.svg" width="95%" alt="Aryaman's Contribution Snake"/>
 
-## <img src="logo.png" height="26" alt=""/> <i>About Me</i>
+## <i>About Me</i>
 
 <img align="right" width="280" src="./programing.jpeg" alt="Aryaman's Pixel Art Character"/>
 
@@ -84,7 +84,7 @@
 
 <br/>
 
-## <img src="logo.png" height="26" alt=""/> <i>Featured Projects</i>
+## <i>Featured Projects</i>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -95,7 +95,7 @@
 
 <br/>
 
-## <img src="logo.png" height="26" alt=""/> <i>Hobbies & Goals</i>
+## <i>Hobbies & Goals</i>
 
 Reading — Collecting perspectives, not just pages.
 
